@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pymysql
 '''x=print('do you want to create a database? If yes,enter y. if you want to use an existing database, enter n')
 if x=='y' or x=='Y':
